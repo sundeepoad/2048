@@ -1,0 +1,24 @@
+Project 2048
+
+Note: The project is using pyglet library of Python. In order to run this code
+successfully, you must have installed pyglet in your system.
+
+Instructions:
+
+1.The game works on the principle of addition.
+2. You have to add two tiles with similar numbers to get a tiles that shows sum of the individual tiles.
+3. Arrow keys work as direction.
+4. Direction image on the screen works for mouse. To move to a certain direction, click the specified arrow.
+5. The goal of this game is to generate a tiles of 2048.
+6. The game is lost when entire grid is filled and no movement is possible.
+
+
+Tips and Tricks:
+
+1. Take it slow 
+	Make the game slowly, think about it as it does not depend on time. 
+
+2. Make a good strategy before staring
+
+3. Making highest valued tile.
+      Set a corner and try to make the highest value in that specified corner and without moving it enough. 
